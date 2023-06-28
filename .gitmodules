@@ -13,3 +13,7 @@
 [submodule "plugins/obs-websocket"]
 	path = plugins/obs-websocket
 	url = https://github.com/obsproject/obs-websocket.git
+
+[submodule "plugins/poly-multicam-studio"]
+	path = plugins/poly-multicam-studio
+	url = https://github.azc.ext.hp.com/rommel-childress/poly-multicam-studio.git
